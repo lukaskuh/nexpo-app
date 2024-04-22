@@ -173,16 +173,13 @@ const styles = StyleSheet.create({
   },
   programmepicker: {
     width: "80%",
-    maxWidth: 433,
-    padding: 10,
+    maxWidth: 400,
     borderColor: Colors.white,
     margin: 12,
     backgroundColor: Colors.arkadNavy,
     color: Colors.white,
     fontFamily: "main-font-bold",
     borderRadius: 7,
-    paddingVertical: 12,
-    paddingHorizontal: 16,
     fontSize: 18,
   },
   textInput: {
